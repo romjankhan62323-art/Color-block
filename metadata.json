@@ -1,0 +1,6 @@
+{
+  "name": "Color Block",
+  "description": "Premium 3D Android Mobile Puzzle Game featuring Journey map, Classic endless puzzle, Drawing Block modes, and vibrant beveled block gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
